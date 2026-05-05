@@ -2,6 +2,8 @@
 
 A WebGL-powered dissolve animation component for React. Wraps any element and dissolves it with a Perlin noise-based particle effect.
 
+[Demo](https://react-dissolve.vercel.app/) | [GitHub](https://github.com/kartikk-k/react-dissolve) | [npm](https://www.npmjs.com/package/dissolve-react)
+
 ## Install
 
 ```bash
